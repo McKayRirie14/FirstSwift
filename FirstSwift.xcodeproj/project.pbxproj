@@ -6,10 +6,21 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		5DF752991C0DEFB800D104BA /* FirstSwiftProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSwiftProject.swift; sourceTree = "<group>"; };
+		5DF7529A1C0DFC9C00D104BA /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
+		5DF7529B1C0DFD0700D104BA /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
+		5DF7529C1C0DFD4200D104BA /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		5DF752921C0DEF9F00D104BA = {
 			isa = PBXGroup;
 			children = (
+				5DF752991C0DEFB800D104BA /* FirstSwiftProject.swift */,
+				5DF7529A1C0DFC9C00D104BA /* Deck.swift */,
+				5DF7529B1C0DFD0700D104BA /* PlayingCard.swift */,
+				5DF7529C1C0DFD4200D104BA /* PlayingCardDeck.swift */,
 			);
 			sourceTree = "<group>";
 		};
